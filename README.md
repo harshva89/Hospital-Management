@@ -4,19 +4,19 @@ A Flutter application backed up with Firebase to provide appointment booking, bi
 
 ## User interface:
 
-### Landing
+### Authentication
 ![Screenshot](screenshots/1.jpg)
 
-### Authentication
+### Google login
 ![Screenshot](screenshots/2.jpg)
 
-### Renting
+### Landing Page
 ![Screenshot](screenshots/3.jpg)
 
-### All sections
+### Appointments
 ![Screenshot](screenshots/4.jpg)
 
-### Servicing form
+### Billing
 ![Screenshot](screenshots/5.jpg)
 
 ### Contact Us
